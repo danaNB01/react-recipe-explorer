@@ -1,6 +1,6 @@
 # 🍳 Recipe Finder React App
 
-A simple React application for searching and filtering recipes. This project demonstrates form handling, state management, and conditional rendering in React.
+A simple React application for searching and filtering recipes. This project demonstrates routing, form handling, state management, and conditional rendering in React.
 
 ---
 
