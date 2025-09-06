@@ -1,12 +1,49 @@
-# React + Vite
+# 🍳 Recipe Finder React App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple React application for searching and filtering recipes. This project demonstrates form handling, state management, and conditional rendering in React.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- Search recipes by title, ingredients, or tags.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Filter recipes by:
+
+  Cuisine (Italian, Mexican, Indian, etc.)
+
+  Cooking time (<=30 or >30 minutes)
+
+  Category (breakfast, dinner, dessert)
+
+- Combine search and filters for precise results.
+
+- Reset filters to show all recipes.
+
+- Display recipe details including ingredients, cooking time, cuisine, and tags.
+
+## 🛠️ Tech Stack
+
+- Frontend: React.js (functional components & hooks)
+
+- Data: Local JSON file (data.json)
+
+## ✨ Installation
+
+1. Clone the repository:
+```
+git clone https://github.com/your-username/react-recipe-app.git
+```
+
+2. Install dependencies:
+```bashnpm start
+npm install
+```
+
+3. Start the development server:
+```bashnpm start
+npm start
+```
+Start the development server:
+
+npm start
