@@ -44,6 +44,3 @@ npm install
 ```bashnpm start
 npm start
 ```
-Start the development server:
-
-npm start
