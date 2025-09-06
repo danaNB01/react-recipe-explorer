@@ -1,0 +1,163 @@
+[
+  {
+    "id": 1,
+    "title": "Spaghetti Carbonara",
+    "description": "A classic Italian pasta dish with eggs, cheese, pancetta, and pepper.",
+    "image": "/images/carbonara.jpg",
+    "ingredients": [
+      "Spaghetti",
+      "Eggs",
+      "Parmesan cheese",
+      "Pancetta",
+      "Black pepper"
+    ],
+    "instructions": [
+      "Cook pasta until al dente.",
+      "Fry pancetta until crisp.",
+      "Whisk eggs and cheese.",
+      "Combine pasta, pancetta, and egg mixture quickly.",
+      "Serve with extra cheese and pepper."
+    ],
+    "cuisine": "Italian",
+    "cookingTime": 20,
+    "tags": ["pasta", "quick"],
+    "category": "dinner"
+  },
+  {
+    "id": 2,
+    "title": "Chicken Tikka Masala",
+    "description": "A popular Indian dish with marinated chicken in a spiced tomato sauce.",
+    "image": "/images/tikka_masala.jpg",
+    "ingredients": [
+      "Chicken",
+      "Yogurt",
+      "Tomato sauce",
+      "Garlic",
+      "Ginger",
+      "Spices"
+    ],
+    "instructions": [
+      "Marinate chicken in yogurt and spices.",
+      "Grill or bake the chicken.",
+      "Prepare the tomato sauce with spices.",
+      "Combine chicken with the sauce and simmer.",
+      "Serve with rice or naan."
+    ],
+    "cuisine": "Indian",
+    "cookingTime": 45,
+    "tags": ["chicken", "spicy"],
+    "category": "dinner"
+  },
+  {
+    "id": 3,
+    "title": "Vegetable Stir Fry",
+    "description": "A quick and healthy stir fry with mixed vegetables and a savory sauce.",
+    "image": "/images/vegetable_stir_fry.jpg",
+    "ingredients": [
+      "Mixed vegetables",
+      "Soy sauce",
+      "Garlic",
+      "Ginger",
+      "Sesame oil"
+    ],
+    "instructions": [
+      "Heat oil in a wok.",
+      "Add garlic and ginger, sauté until fragrant.",
+      "Add vegetables and stir fry until tender-crisp.",
+      "Add soy sauce and toss to coat.",
+      "Serve with rice or noodles."
+    ],
+    "cuisine": "Asian",
+    "cookingTime": 15,
+    "tags": ["vegetarian", "quick", "healthy"],
+    "category": "lunch"
+  },
+  {
+    "id": 4,
+    "title": "Beef Tacos",
+    "description": "Delicious beef tacos with fresh toppings and a zesty sauce.",
+    "image": "/images/beef_tacos.jpg",
+    "ingredients": [
+      "Ground beef",
+      "Taco shells",
+      "Lettuce",
+      "Tomato",
+      "Cheese",
+      "Sour cream"
+    ],
+    "instructions": [
+      "Cook ground beef with taco seasoning.",
+      "Warm taco shells.",
+      "Assemble tacos with beef and toppings.",
+      "Serve with salsa and sour cream."
+    ],
+    "cuisine": "Mexican",
+    "cookingTime": 25,
+    "tags": ["beef", "quick"],
+    "category": "dinner"
+  },
+  {
+    "id": 5,
+    "title": "Chocolate Chip Cookies",
+    "description": "Classic chocolate chip cookies with a chewy center and crispy edges.",
+    "image": "/images/chocolate_chip_cookies.jpg",
+    "ingredients": ["Flour", "Sugar", "Butter", "Eggs", "Chocolate chips"],
+    "instructions": [
+      "Preheat oven to 350°F (175°C).",
+      "Mix dry ingredients in one bowl and wet ingredients in another.",
+      "Combine both mixtures and fold in chocolate chips.",
+      "Scoop dough onto baking sheet and bake for 10-12 minutes.",
+      "Cool on wire rack before serving."
+    ],
+    "cuisine": "American",
+    "cookingTime": 30,
+    "tags": ["baking", "sweet"],
+    "category": "desert"
+  },
+  {
+    "id": 6,
+    "title": "Caesar Salad",
+    "description": "A fresh salad with romaine lettuce, croutons, and Caesar dressing.",
+    "image": "/images/caesar_salad.jpg",
+    "ingredients": [
+      "Romaine lettuce",
+      "Croutons",
+      "Parmesan cheese",
+      "Caesar dressing"
+    ],
+    "instructions": [
+      "Chop romaine lettuce.",
+      "Toss lettuce with Caesar dressing.",
+      "Top with croutons and Parmesan cheese.",
+      "Serve immediately."
+    ],
+    "cuisine": "Italian",
+    "cookingTime": 10,
+    "tags": ["healthy", "quick"],
+    "category": "salad"
+  },
+  {
+    "id": 7,
+    "title": "Avocado Toast",
+    "description": "Simple and delicious avocado toast topped with cherry tomatoes and a sprinkle of chili flakes.",
+    "image": "/images/avocado_toast.jpg",
+    "ingredients": [
+      "Bread",
+      "Avocado",
+      "Cherry tomatoes",
+      "Chili flakes",
+      "Lemon juice"
+    ],
+    "instructions": [
+      "Toast the bread slices.",
+      "Mash the avocado with lemon juice, salt, and pepper.",
+      "Spread the mashed avocado on the toast.",
+      "Top with halved cherry tomatoes and a sprinkle of chili flakes.",
+      "Serve immediately."
+    ],
+    "cuisine": "American",
+    "cookingTime": 10,
+    "tags": ["quick", "healthy"],
+    "category": "breakfast"
+  }
+]
